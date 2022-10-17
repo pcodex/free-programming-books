@@ -868,6 +868,7 @@
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel, freeCodeCamp (YouTube)
 * [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
+* [Web Development with Kotlin](https://www.udemy.com/course/web-development-with-kotlin) - Alexey Soshin (Udemy)
 
 
 ### Kubernetes
